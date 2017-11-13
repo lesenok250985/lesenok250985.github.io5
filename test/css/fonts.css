@@ -1,0 +1,9 @@
+@font-face {
+			font-family: "LeagueGothic-Regular";
+			src: url("../fonts/LeagueGothic-Regular/LeagueGothic-Regular.otf"),
+			url("../fonts/LeagueGothic-Regular/LeagueGothic-Regular.woff") format("woff"),
+			url("../fonts/LeagueGothic-Regular/LeagueGothic-Regular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
